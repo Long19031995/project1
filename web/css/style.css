@@ -1,0 +1,32 @@
+h1 {
+    color:#5cb85c;
+}
+input[type="button"],
+input[type="submit"],
+button {
+    border: none;
+    padding: 10px 15px;
+    color: #fff;
+    background: #5cb85c;
+}
+
+thead tr {
+    background: #4bbad3;
+    color: #fff;
+    height: 30px;
+}
+tbody tr {
+    background: #f1f1f1;
+    height: 30px;
+}
+a {
+    text-decoration: none;
+}
+
+table {
+    width: 800px;
+}
+
+tbody tr td {
+    padding-left: 5px;
+}
